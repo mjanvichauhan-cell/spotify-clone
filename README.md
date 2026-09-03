@@ -2,6 +2,8 @@
 
 A responsive **Spotify Clone** built using **HTML, CSS, and JavaScript**. This project recreates the core layout and user interface of Spotify, including a navigation bar, music library, trending songs, popular artists, featured charts, and a functional music player.
 
+![spotify-clone](spotifyimg.jpeg)
+
 ## 🚀 Features
 
 * 🎧 Spotify-inspired user interface
